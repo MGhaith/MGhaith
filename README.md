@@ -21,7 +21,7 @@
 </div>
 
 <div align="left">
-<img src="https://github.com/MGhaith/MGhaith/assets/57289554/413d36f9-e41b-4e1f-94dd-39a0805b1d56"/>
+<img src="https://github.com/MGhaith/MGhaith/assets/57289554/33d78986-df7b-4439-beb1-c2560fa51c77"/>
 <p align="left" width="400" 
      height="500">
 <a href="https://twitter.com/retr0_tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0_tn" height="30" width="40" /></a>
