@@ -102,15 +102,15 @@
   
 <p width="400" 
      height="500">
-<a href="https://twitter.com/retr0_tn" target="_blank">
+<a href="https://twitter.com/retr0_tn" target="_blank" rel="noopener">
   <img align="center" src="https://img.icons8.com/?size=96&id=8HtzWaaC5y60&format=png" alt="X_Icon" height="48" width="48" />
 </a>
   
-<a href="https://linkedin.com/in/ghaith-magherbi" target="_blank"> 
+<a href="https://linkedin.com/in/ghaith-magherbi" target="_blank" rel="noopener"> 
   <img align="center" src="https://img.icons8.com/?size=96&id=DYoTRhf8VVC1&format=png"  alt="LinkedIn_Icon" height="48" width="48" />
 </a>
 
-<a href="https://stackoverflow.com/users/15550099/retr0" target="_blank"> 
+<a href="https://stackoverflow.com/users/15550099/retr0" target="_blank" rel="noopener"> 
   <img align="center" src="https://img.icons8.com/?size=96&id=13955&format=png"  alt="Stack_Icon" height="48" width="48" />
 </a>
 
@@ -118,7 +118,7 @@
   <img align="center" src="https://img.icons8.com/?size=96&id=RUVBnu6Mciid&format=png"  alt="Mail_Icon" height="48" width="48" />
 </a>
 
-<a href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank"> 
+<a href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank" rel="noopener"> 
   <img align="center" src="https://img.icons8.com/?size=96&id=bskQEfQJvdO4&format=png"  alt="CV_Icon" height="48" width="48" />
 </a>
 
