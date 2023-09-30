@@ -114,11 +114,11 @@
   <img align="center" src="https://img.icons8.com/?size=96&id=13955&format=png"  alt="ghaith-magherbi" height="48" width="48" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghaith.magherbi@esprit.tn&su=Saying%20Hi&body=Hey%20Ghaith," target="blank"> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghaith.magherbi@esprit.tn&su=Saying%20Hi.&body=Hey%20Ghaith," target="blank"> 
   <img align="center" src="https://img.icons8.com/?size=96&id=RUVBnu6Mciid&format=png"  alt="ghaith-magherbi" height="48" width="48" />
 </a>
 
-<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"> 
+<a href="https://drive.google.com/file/d/1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO/view?usp=drive_link" download> 
   <img align="center" src="https://img.icons8.com/?size=96&id=bskQEfQJvdO4&format=png"  alt="ghaith-magherbi" height="48" width="48" />
 </a>
 
