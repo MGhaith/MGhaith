@@ -28,7 +28,7 @@
 ------
 
 <p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/8c62647a-6c1f-4fca-81f0-ba98e47a1d8d"/></p>
- <p>
+ <p border="1px">
    
    - **Programming Languages**:
      
@@ -74,25 +74,25 @@
  </p>
  
 ------
-<p>
-<div>
+
+  
+<p width="1000px" height="500px">
+  
 <img align="center" src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257">
-  <br>
+
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
-</div>  
-  <br>
-<div align="center">
+
+  <div>
+    
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
+
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" /> 
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
-
+  </div>
 </div>
-
-</div>
-
 </p>
+
 
 ------
 
@@ -102,23 +102,23 @@
   
 <p width="400" 
      height="500">
-<a href="https://twitter.com/retr0_tn" target="_blank" rel="noopener">
+<a rel="noopener noreferrer" href="https://twitter.com/retr0_tn" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=96&id=8HtzWaaC5y60&format=png" alt="X_Icon" height="48" width="48" />
 </a>
   
-<a href="https://linkedin.com/in/ghaith-magherbi" target="_blank" rel="noopener"> 
+<a rel="noopener noreferrer" href="https://linkedin.com/in/ghaith-magherbi" target="_blank" > 
   <img align="center" src="https://img.icons8.com/?size=96&id=DYoTRhf8VVC1&format=png"  alt="LinkedIn_Icon" height="48" width="48" />
 </a>
 
-<a href="https://stackoverflow.com/users/15550099/retr0" target="_blank" rel="noopener"> 
+<a rel="noopener noreferrer" href="https://stackoverflow.com/users/15550099/retr0" target="_blank" > 
   <img align="center" src="https://img.icons8.com/?size=96&id=13955&format=png"  alt="Stack_Icon" height="48" width="48" />
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ghaith.magherbi@esprit.tn&su=Saying%20Hi.&body=Hey%20Ghaith," target="_blank" rel="noopener"> 
+<a rel="noopener noreferrer" href="https://mail.google.com/mail/?view=cm&fs=1&to=ghaith.magherbi@esprit.tn&su=Saying%20Hi.&body=Hey%20Ghaith," target="_blank" > 
   <img align="center" src="https://img.icons8.com/?size=96&id=RUVBnu6Mciid&format=png"  alt="Mail_Icon" height="48" width="48" />
 </a>
 
-<a href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank" rel="noopener"> 
+<a rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank" > 
   <img align="center" src="https://img.icons8.com/?size=96&id=bskQEfQJvdO4&format=png"  alt="CV_Icon" height="48" width="48" />
 </a>
 
