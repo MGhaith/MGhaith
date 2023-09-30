@@ -99,9 +99,28 @@
 
 <div align="center">
 <img src="https://github.com/MGhaith/MGhaith/assets/57289554/1d8a9cf7-f7f6-4e5d-ba96-009d7cfd41d1"/>
+  
 <p width="400" 
      height="500">
-<a href="https://twitter.com/retr0_tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0_tn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"><img align="center" src="https://github.com/MGhaith/MGhaith/assets/57289554/f67b96ce-9cce-4380-8b1b-f63812dc8cbc" alt="ghaith-magherbi" height="40" width="40" /></a>
+<a href="https://twitter.com/retr0_tn" target="blank">
+  <img align="center" src="https://img.icons8.com/?size=96&id=8HtzWaaC5y60&format=png" alt="retr0_tn" height="48" width="48" />
+</a>
+  
+<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"> 
+  <img align="center" src="https://img.icons8.com/?size=96&id=DYoTRhf8VVC1&format=png"  alt="ghaith-magherbi" height="48" width="48" />
+</a>
+
+<a href="https://stackoverflow.com/users/15550099/retr0" target="blank"> 
+  <img align="center" src="https://img.icons8.com/?size=96&id=13955&format=png"  alt="ghaith-magherbi" height="48" width="48" />
+</a>
+
+<a href="ghaith.magherbi@esprit.tn" target="blank"> 
+  <img align="center" src="https://img.icons8.com/?size=96&id=RUVBnu6Mciid&format=png"  alt="ghaith-magherbi" height="48" width="48" />
+</a>
+
+<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"> 
+  <img align="center" src="https://img.icons8.com/?size=96&id=bskQEfQJvdO4&format=png"  alt="ghaith-magherbi" height="48" width="48" />
+</a>
+
 </p>
 </div>
