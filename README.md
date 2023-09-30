@@ -2,45 +2,102 @@
 
 <h1 align="center">Hey there <img src="https://github.com/MGhaith/MGhaith/assets/57289554/2dd38071-5622-4252-bc74-dfc667447ee9" width="40px" height="40px"/>, I'm <i>Ghaith Magherbi</i></h1>
 
-<h3 align="center">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/778b82f4-1b49-41fc-a61a-61920eaea198"/>.</h3>
+------
+
+![followers](https://img.shields.io/github/followers/mghaith?style=social)
+![stars](https://img.shields.io/github/stars/mghaith?style=social)
+<img align="right" src="https://komarev.com/ghpvc/?username=mghaith&label=Profile Views&color=1b1b32&style=flat" alt="plastic" />
 
 <div>
   
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mghaith&label=Views&color=b40e0e&style=plastic" alt="mghaith" /> </p>
+<p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/ce9b0520-9c69-47d9-9f9b-c7980f91961b"/></p>
+
+<p align="center">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
 
 - 🔭 I’m currently working on **a video game project**
 
 - 🌱 I’m currently learning **Laravel, Godot**
-
 - 💬 Ask me about **Laravel, Unity, Godot, Unreal Engine.**
 
 - 📫 How to reach me **ghaith.magherbi@esprit.tn**
 
-- ⚡ Fun fact **I love gaming, programming and historical movies**
+- ⚡ Fun fact **I love gaming 🎮, programming 💻 and historical movies 🎬**
   
 </div>
 
 ------
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/8c62647a-6c1f-4fca-81f0-ba98e47a1d8d"/></p>
+ <p>
+   
+   - **Programming Languages**:
+     
+     ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=ivory)
+     ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=ivory)
+     ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=ivory)
+     ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=ivory)
+     ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=ivory)
+     ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+   - **Web Development**:
+     
+     ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=black)
+
+   -  **Game Engines**:
+     
+      ![Static Badge](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=ivory)
+      ![Static Badge](https://img.shields.io/badge/Unreal%20Engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=ivory)
+      ![Static Badge](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=ivory)
+
+  -  **Software**:
+
+     ![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Perforce-%23404040?style=for-the-badge&logo=perforce&logoColor=ivory)
+
+  -  **Database**:
+
+     ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=black)
+    
+  -  **Other**:
+
+     ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
+     ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=ivory)
+ </p>
+ 
 ------
-
+<p>
 <div>
-<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></p>
-<p align="centre"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
+<img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257">
+  
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
+</div>  
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" /> 
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" /></p> <br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
 
 </div>
 
+</div>
+
+</p>
+
 ------
 
+
 <div align="center">
-<img src="https://github.com/MGhaith/MGhaith/assets/57289554/33d78986-df7b-4439-beb1-c2560fa51c77"/>
+<img src="https://github.com/MGhaith/MGhaith/assets/57289554/1d8a9cf7-f7f6-4e5d-ba96-009d7cfd41d1"/>
 <p width="400" 
      height="500">
 <a href="https://twitter.com/retr0_tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0_tn" height="30" width="40" /></a>
