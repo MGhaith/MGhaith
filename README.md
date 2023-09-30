@@ -6,12 +6,15 @@
 ![stars](https://img.shields.io/github/stars/mghaith?style=social)
 <img align="right" src="https://komarev.com/ghpvc/?username=mghaith&label=Profile Views&color=1b1b32&style=flat" alt="plastic" />
 
+<br>
 
 <div>
   
 <p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/ce9b0520-9c69-47d9-9f9b-c7980f91961b"/></p>
 
-<p align="center">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
+<p align="left">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
+
+<img align="right" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 200px height=200px>
 
 - 🔭 I’m currently working on **Personal projects**
 
@@ -22,10 +25,12 @@
 - 📫 How to reach me? Check "Connect with me"
 
 - ⚡ Fun fact **I love gaming 🎮, programming 💻 and historical movies 🎬**
-  
-</div>
+
+
+<br>
 
 ------
+
 
 <p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/8c62647a-6c1f-4fca-81f0-ba98e47a1d8d"/></p>
  <p border="1px">
@@ -79,7 +84,7 @@
 <div align="center">  
   <img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257"> <br><br>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" /><br>
     <img src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
   </div>
