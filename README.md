@@ -2,11 +2,10 @@
 
 <h1 align="center">Hey there <img src="https://github.com/MGhaith/MGhaith/assets/57289554/2dd38071-5622-4252-bc74-dfc667447ee9" width="40px" height="40px"/>, I'm <i>Ghaith Magherbi</i></h1>
 
-------
-
 ![followers](https://img.shields.io/github/followers/mghaith?style=social)
 ![stars](https://img.shields.io/github/stars/mghaith?style=social)
 <img align="right" src="https://komarev.com/ghpvc/?username=mghaith&label=Profile Views&color=1b1b32&style=flat" alt="plastic" />
+
 
 <div>
   
@@ -14,12 +13,13 @@
 
 <p align="center">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
 
-- 🔭 I’m currently working on **a video game project**
+- 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Laravel, Godot**
-- 💬 Ask me about **Laravel, Unity, Godot, Unreal Engine.**
+- 🌱 I’m currently learning **Laravel**
+  
+- 💬 Ask me about **Game and Web dev.**
 
-- 📫 How to reach me **ghaith.magherbi@esprit.tn**
+- 📫 How to reach me? Check "Connect with me"
 
 - ⚡ Fun fact **I love gaming 🎮, programming 💻 and historical movies 🎬**
   
@@ -76,11 +76,12 @@
 ------
 <p>
 <div>
-<img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257">
-  
+<img align="center" src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257">
+  <br>
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
 </div>  
+  <br>
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" /> 
@@ -101,6 +102,6 @@
 <p width="400" 
      height="500">
 <a href="https://twitter.com/retr0_tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="retr0_tn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"><img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="ghaith-magherbi" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ghaith-magherbi" target="blank"><img align="center" src="https://github.com/MGhaith/MGhaith/assets/57289554/f67b96ce-9cce-4380-8b1b-f63812dc8cbc" alt="ghaith-magherbi" height="40" width="40" /></a>
 </p>
 </div>
