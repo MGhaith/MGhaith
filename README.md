@@ -76,32 +76,23 @@
 ------
 
   
-<p width="1000px" height="500px">
-  
-<img align="center" src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257">
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
-
+<div align="center">  
+  <img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257"> <br><br>
   <div>
-    
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
-
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
-  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" /><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
   </div>
 </div>
-</p>
+
 
 
 ------
 
-
 <div align="center">
 <img src="https://github.com/MGhaith/MGhaith/assets/57289554/1d8a9cf7-f7f6-4e5d-ba96-009d7cfd41d1"/>
   
-<p width="400" 
-     height="500">
+<p>
 <a rel="noopener noreferrer" href="https://twitter.com/retr0_tn" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=96&id=8HtzWaaC5y60&format=png" alt="X_Icon" height="48" width="48" />
 </a>
