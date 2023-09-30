@@ -12,9 +12,9 @@
   
 <p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/ce9b0520-9c69-47d9-9f9b-c7980f91961b"/></p>
 
-<p align="left">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
+<p align="center">A creative and passionate video games, web and software development engineer from Tunisia <img padding_top="10px" height="25px" width="25px" src="https://github.com/MGhaith/MGhaith/assets/57289554/dea229d7-baac-4947-b870-01fefb058920"/>.</p>
 
-<img align="right" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 200px height=200px>
+<img align="right" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 180px height=180px>
 
 - 🔭 I’m currently working on **Personal projects**
 
