@@ -89,6 +89,8 @@
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
+  </p>
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
   </p>
 
