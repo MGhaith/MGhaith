@@ -8,7 +8,6 @@
 
 <br>
 
-<div>
   
 <p align="center"><img src="https://github.com/MGhaith/MGhaith/assets/57289554/ce9b0520-9c69-47d9-9f9b-c7980f91961b"/></p>
 
@@ -81,15 +80,19 @@
 ------
 
   
-<div align="center">  
-  <img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257"> <br><br>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" /><br>
+ <div align="center">
+   
+  <img src="https://github.com/MGhaith/MGhaith/assets/57289554/0c43f729-836a-4634-9790-84d840ecb257"> <br>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mghaith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mghaith" />
+  </p>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mghaith&show_icons=true&locale=en&theme=tokyonight" alt="mghaith" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mghaith&theme=tokyonight" alt="mghaith" />
-  </div>
-</div>
+  </p>
 
+</div>
 
 
 ------
