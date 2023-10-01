@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **ASP.NET**
   
 - 💬 Ask me about **Game and Web dev.**
 
