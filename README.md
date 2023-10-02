@@ -101,7 +101,6 @@
 
 <div align="center">
 <img src="https://github.com/MGhaith/MGhaith/assets/57289554/1d8a9cf7-f7f6-4e5d-ba96-009d7cfd41d1"/>
-  
 <p>
 <a rel="noopener noreferrer" href="https://twitter.com/retr0_tn" target="_blank">
   <img align="center" src="https://img.icons8.com/?size=96&id=8HtzWaaC5y60&format=png" alt="X_Icon" height="48" width="48" />
@@ -122,6 +121,5 @@
 <a rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank" > 
   <img align="center" src="https://img.icons8.com/?size=96&id=bskQEfQJvdO4&format=png"  alt="CV_Icon" height="48" width="48" />
 </a>
-
 </p>
 </div>
