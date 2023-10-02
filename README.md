@@ -119,7 +119,7 @@
 </a>
 
 <a rel="noopener noreferrer" href="https://www.freecodecamp.org/Gahith_Magherbi" target="_blank" > 
-  <img align="center" src="https://img.icons8.com/?size=56&id=1bI3Ja53BssG&format=png"  alt="Fire_Icon" height="48" width="48" />
+  <img align="center" src="https://img.icons8.com/?size=112&id=1bI3Ja53BssG&format=png"  alt="Fire_Icon" height="56" width="56" />
 </a>
 
 <a rel="noopener noreferrer" href="https://drive.google.com/uc?export=download&id=1JElF3v3VqoNcVbRE7qF_DHqmbskd5_mO" target="_blank" > 
