@@ -1,6 +1,6 @@
 ![GitHub_Banner](https://github.com/MGhaith/MGhaith/assets/57289554/0cef5fa3-087c-4d4b-93b1-c490267b190a)
 
-<h1 align="center">Hey there <img src="https://github.com/MGhaith/MGhaith/assets/57289554/2dd38071-5622-4252-bc74-dfc667447ee9" width="40px" height="40px"/>, I'm <i>Ghaith Magherbi</i></h1>
+<h1 align="center" text-decoration="none">Hey there <img src="https://github.com/MGhaith/MGhaith/assets/57289554/2dd38071-5622-4252-bc74-dfc667447ee9" width="40px" height="40px"/>, I'm <i>Ghaith Magherbi</i></h1>
 
 ![followers](https://img.shields.io/github/followers/mghaith?style=social)
 ![stars](https://img.shields.io/github/stars/mghaith?style=social)
