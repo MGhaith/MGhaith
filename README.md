@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Something**
+- 🌱 I’m currently learning **Machine Learning**
   
 - 💬 Ask me about **Game and Web dev.**
 
