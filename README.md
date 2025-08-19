@@ -21,7 +21,7 @@
   
 - 💬 Ask me about **Game and Web dev.**
 
-- 📫 How to reach me? Check "Connect with me"
+- 📫 How to reach me? Check <a href="#connect">"Connect with me"</a>
 
 - ⚡ Fun fact **I love gaming 🎮, programming 💻 and historical movies 🎬**
 
@@ -99,7 +99,7 @@
 
 ------
 
-<div align="center">
+<div id="connect" align="center">
 <img src="https://github.com/MGhaith/MGhaith/assets/57289554/1d8a9cf7-f7f6-4e5d-ba96-009d7cfd41d1"/>
 <p>
 <a rel="noopener noreferrer" href="https://twitter.com/retr0_tn" target="_blank">
